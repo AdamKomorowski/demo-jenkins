@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("######################## Test contextLoads #########################");
+		System.out.println("Test contextLoads");
 	}
 
 }
